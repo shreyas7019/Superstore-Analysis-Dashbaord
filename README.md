@@ -1,0 +1,1 @@
+A comprehensive Power BI dashboard providing real-time analytics for a retail superstore's performance metrics. The dashboard offers detailed insights into sales, profit, and product performance across different segments and geographical locations.
